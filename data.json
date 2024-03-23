@@ -1,0 +1,14 @@
+{
+    "projects": [
+        {
+            "name": "One Lesson",
+            "url": "https://supertolek.github.io/One-lesson/",
+            "image": "image/no_image.svg"
+        },
+        {
+            "name": "TiPy",
+            "url": "https://supertolek.github.io/TiPy/",
+            "image": "image/no_image.svg"
+        }
+    ]
+}
